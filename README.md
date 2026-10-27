@@ -64,5 +64,19 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Glory is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://glory-global.com/
+Glory Global Solutions provides cash handling automation and transaction processing technologies for retail, banking, gaming, and hospitality sectors. Their platform integrates cash‑in‑transit services, vending solutions, and digital payment workflows to streamline cash operations across multiple industries worldwide.
+
+**Areas:** Company · CashAutomation · RetailTech · FinancialServices · Gaming
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://glory-global.com/)
+- [Security](https://www.glory-global.com/en-us/security)
+- [Terms of service](https://www.glory-global.com/en-us/terms)
+- [Privacy policy](https://www.glory-global.com/en-us/privacy-policy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/glory-global-solutions/](https://apis.io/providers/glory-global-solutions/).
